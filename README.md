@@ -1,2 +1,2 @@
 # ds
-introduction of data science
+tutorial of data science
